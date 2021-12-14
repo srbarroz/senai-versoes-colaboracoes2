@@ -19,3 +19,5 @@ git pull origin <branch> - Realizar o download das informações fornecidas pela
 git merge <branch> - Fazer a mesclagem com a outra branch.
 git tag <nome da tag> - Demarcar pontos no decorrer do desenvolvimento do código que representa.
 git tag - Visualiza a tag criada.
+
+lembrei do comando: git commit
